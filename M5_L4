@@ -1,0 +1,6 @@
+n = int(input())
+x = (n//2)+1
+print(x)
+
+
+https://robocontest.uz/profile/ibrohim_py
